@@ -2,7 +2,7 @@
 
 * 💬 Discord : ach#9690
 * ⚒️ Language : lua,js,py
-* ⚒️ Framework : discord.js,RageUI,ESX,...
+* 🌱 Framework : discord.js,RageUI,ESX,...
 
 ____
          
