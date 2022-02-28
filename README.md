@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm ach</h1>
+<h1 align="center">Hi, I'm ach</h1> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fach-git"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fach-git&labelColor=%23333333&countColor=%23ba68c8&style=flat" /></a>
+
+
 
 * 💬 Discord : ach#9690
 * ⚒️ Language : lua,js,py
@@ -12,4 +14,3 @@ ____
       <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=ach-git&theme=tokyonight&layout=default&show_icons=true" />
   </tr>
 </table>
-## Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
