@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ach</h1>
+<h1 align="center">Hi, I'm ach</h1> ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ach-git&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 * 💬 Discord : ach#9690
 * ⚒️ Language : lua,js,py
