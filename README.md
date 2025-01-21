@@ -2,7 +2,7 @@
 </h1> 
 
 
-* 💬 Discord : ach#9690
+* 💬 Discord : ach.d
 * ⚒️ Language : lua, js, py (learning: c#)
 * 🌱 Framework / Library : discord.js, glua, 
 
