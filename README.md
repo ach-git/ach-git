@@ -2,15 +2,24 @@
 </h1> 
 
 
-* 💬 Discord : ach#9690
-* ⚒️ Language : lua, js, py (learning: c#)
-* 🌱 Framework / Library : discord.js, glua, 
+### 🛠️ Compétences Techniques
+
+#### 👨‍💻 Frontend  
+- **Langages :** HTML5, CSS3, JavaScript, TypeScript, SCSS 
+- **Frameworks & Libs :** React, Vue.js, Tailwind CSS  
+
+#### 🧠 Backend  
+- **Langages :** C, C++, C#, Java, PHP, Lua, Shell  
+- **Frameworks :** Laravel
+
+---
+
+### 🧰 Outils & Environnements  
+- Git, GitHub, VS Code, Visual Studio  
+- Suite JetBrains (IntelliJ, PhpStorm, etc.)  
+- Figma, Trello, Jira  
+- Windows, Unix/Linux
 
 ____
          
-<table>
-  <tr>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=ach-git&theme=material-palenight&show_icons=true" />
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ach-git&layout=compact&theme=material-palenight" />
-  </tr>
-</table>
+<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=ach-git&theme=material-palenight&show_icons=true" />
