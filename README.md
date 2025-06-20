@@ -2,21 +2,21 @@
 </h1> 
 
 
-### 🛠️ Compétences Techniques
+### 🛠️ Technical Skills
 
 #### 👨‍💻 Frontend  
-- **Langages :** HTML5, CSS3, JavaScript, TypeScript, SCSS 
-- **Frameworks & Libs :** React, Vue.js, Tailwind CSS  
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript, SCSS  
+- **Frameworks & Libraries:** React, Vue.js, Tailwind CSS
 
 #### 🧠 Backend  
-- **Langages :** C, C++, C#, Java, PHP, Lua, Shell  
-- **Frameworks :** Laravel
+- **Languages:** C, C++, C#, Java, PHP, Lua, Shell  
+- **Frameworks:** Laravel
 
 ---
 
-### 🧰 Outils & Environnements  
+### 🧰 Tools & Environments  
 - Git, GitHub, VS Code, Visual Studio  
-- Suite JetBrains (IntelliJ, PhpStorm, etc.)  
+- JetBrains Suite (IntelliJ, PhpStorm, etc.)  
 - Figma, Trello, Jira  
 - Windows, Unix/Linux
 
